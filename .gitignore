@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 use_git
+
+git.sh
