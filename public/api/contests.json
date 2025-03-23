@@ -1,0 +1,51 @@
+
+[
+    {
+        "platform": "codeforces",
+        "name": "Codeforces Round #867 (Div. 3)",
+        "start_time": 1683052800,
+        "duration": 7200,
+        "link": "https://codeforces.com/contest/1829",
+        "phase": "FINISHED"
+    },
+    {
+        "platform": "codechef",
+        "name": "START69D",
+        "start_time": 1683225600,
+        "duration": 5400,
+        "link": "https://www.codechef.com/START69D",
+        "phase": "FINISHED"
+    },
+    {
+        "platform": "leetcode",
+        "name": "LeetCode Weekly Contest 343",
+        "start_time": 1683312000,
+        "duration": 5400,
+        "link": "https://leetcode.com/contest/weekly-contest-343",
+        "phase": "FINISHED"
+    },
+    {
+        "platform": "codeforces",
+        "name": "Codeforces Round #868 (Div. 2)",
+        "start_time": 1683657600,
+        "duration": 7200,
+        "link": "https://codeforces.com/contest/1831",
+        "phase": "BEFORE"
+    },
+    {
+        "platform": "codechef",
+        "name": "LTIME132",
+        "start_time": 1683830400,
+        "duration": 10800,
+        "link": "https://www.codechef.com/LTIME132",
+        "phase": "BEFORE"
+    },
+    {
+        "platform": "leetcode",
+        "name": "LeetCode Biweekly Contest 105",
+        "start_time": 1683916800,
+        "duration": 5400,
+        "link": "https://leetcode.com/contest/biweekly-contest-105",
+        "phase": "BEFORE"
+    }
+]
